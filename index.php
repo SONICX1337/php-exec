@@ -1,4 +1,4 @@
-<form method="post" class="lofasz">
+<form method="post" class="yolocska">
 <input type="submit" class="button" id="yolocska" name="hova" style="width:100px; height:100px;" value="Fel">
 <input type="submit" id="yolocska" name="hova" style="width:100px; height:100px;" value="Le">
 <input type="submit" id="yolocska" name="hova" style="width:100px; height:100px;" value="Nemit">
