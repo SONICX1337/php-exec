@@ -1,5 +1,5 @@
 <b>What's this?</b><br>
-This tool allows you to remote your computer volume via Apache using PHP and nirCMD. Compatible with other devices (Android etc). It's only works on Windows, because nirCMD extension is .exe .
+This tool allows you to remote your computer volume via Apache using PHP and nirCMD. Compatible with other devices (Android etc). It's only works on Windows, because nirCMD's extension is .exe .
 <br><br>
 <b>Requirements:</b><br>
 - Apache server
